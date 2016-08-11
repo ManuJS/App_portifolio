@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">App portifolio</string>
+    <string name="meu_app">Meu Nanodegree App</string>
+    <string name="app1">Primeiro app nano</string>
+    <string name="app2">Segundo app nano</string>
+    <string name="app3">Terceiro app nano</string>
+    <string name="app4">Quarto app nano</string>
+    <string name="app5">Quinto app nano</string>
+    <string name="app6">Meu proprio App</string>
 </resources>
